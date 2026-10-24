@@ -1,5 +1,0 @@
-Learned what Terraform Providers are.
-Understood how Terraform communicates with AWS.
-Learned required_providers and provider blocks.
-Practiced terraform init, terraform plan, and terraform apply.
-Understood how providers translate Terraform code into AWS API calls.
